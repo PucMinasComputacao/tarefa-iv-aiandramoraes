@@ -48,7 +48,7 @@ body {
     transition: color 0.3s;
 }
 
-.main-nav a:hover { color: #ffcdd2; }
+.main-nav a:hover { color: #fbf9f9; }
 
 /* Barra de Pesquisa Superior */
 .search-bar-section {
